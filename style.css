@@ -217,7 +217,7 @@ a:active{
     height: 400px;
    }
 }
-@media (max-width: 4000px) {
+@media (max-width: 400px) {
     .img1{
         height: 250px;
     }
